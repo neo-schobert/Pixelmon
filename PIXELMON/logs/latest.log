@@ -1,326 +1,236 @@
-[03:45:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:45:42] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:45:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:45:42] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2855 for Minecraft 1.12.2 loading
-[03:45:42] [main/INFO] [FML]: Java is Java HotSpot(TM) Client VM, version 1.8.0_291, running on Windows 10:x86:10.0, installed at C:\Program Files (x86)\Java\jre1.8.0_291
-[03:45:42] [main/INFO] [FML]: Searching C:\Users\Schobert\Desktop\serv\PIXELMON\.\mods for mods
-[03:45:42] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-OptiFine-1.12.2_HD_U_G5.jar
-[03:45:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:45:42] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[03:45:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[03:45:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:45:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:45:42] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[03:45:42] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[03:45:42] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[03:45:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$2, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$Options, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.LoadingScreenRenderer, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.util.ScreenShotHelper, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.FontRenderer, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiSlot, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiMainMenu, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiVideoSettings, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.TexturedQuad, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelBox, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelRenderer, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$2, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$3, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$4, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$2, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$3, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$4, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.entity.AbstractClientPlayer, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$2, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$State, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$2, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$3, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$4, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$2, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$ContainerLocalRenderInformation, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockFluidRenderer, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$EnumNeighborInfo, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$AmbientOcclusionFace, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$VertexTranslations, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$Orientation, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuad, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuadRetextured, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery$5, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ItemOverrideList, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$2, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$3, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$PendingUpload, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.RenderChunk, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderManager, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderItemFrame, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$9, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$10, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$2, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$3, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$4, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$5, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$6, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$7, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$8, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.layers.LayerArmorBase, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.LayeredColorMaskTexture, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Holder, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Slot, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$2, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$3, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureUtil, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$2, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$3, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$Entry, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelRotation, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$2, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$3, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$2, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$3, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$1, but received non-empty
-[03:45:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$FboMode, but received non-empty
-[03:45:43] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[03:45:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:45:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[03:45:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[03:45:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[03:45:44] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[03:45:44] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[03:45:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[03:45:47] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2855 Initialized
-[03:45:47] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[03:45:47] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[03:45:47] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[03:45:47] [Server thread/INFO] [FML]: Searching C:\Users\Schobert\Desktop\serv\PIXELMON\.\mods for mods
-[03:45:49] [Server thread/INFO] [FML]: Forge Mod Loader has identified 25 mods to load
-[03:45:49] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[03:45:49] [Server thread/WARN] [FML]: Missing English translation for bop_patch: assets/bop_patch/lang/en_us.lang
-[03:45:49] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
-[03:45:49] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
-[03:45:49] [Server thread/WARN] [FML]: Missing English translation for buildcraftenergy: assets/buildcraftenergy/lang/en_us.lang
-[03:45:49] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
-[03:45:49] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
-[03:45:49] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
-[03:45:49] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
-[03:45:49] [Server thread/WARN] [FML]: Missing English translation for pixelextras: assets/pixelextras/lang/en_us.lang
-[03:45:49] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, bspkrscore, treecapitator, backpack, biomesoplenty, bop_patch, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, elevatorid, gameshark, jei, journeymap, naturescompass, pixelextras, pixelmon] at CLIENT
-[03:45:49] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, bspkrscore, treecapitator, backpack, biomesoplenty, bop_patch, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, elevatorid, gameshark, jei, journeymap, naturescompass, pixelextras, pixelmon] at SERVER
-[03:45:49] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack-3.0.2-1.12.2.jar, however there is no signature matching that description
-[03:45:50] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[03:45:50] [Server thread/INFO] [FML]: Found 1237 ObjectHolder annotations
-[03:45:50] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[03:45:50] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[03:45:50] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[03:45:50] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
-[03:45:50] [Server thread/INFO] [treecapitator]: Looks like a fresh config; default config loaded.
-[03:45:52] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Found status: AHEAD Target: null
-[03:45:52] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Starting version check at https://mod-buildcraft.com/version/versions-compat.json
-[03:45:52] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Found status: AHEAD Target: null
-[03:45:52] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
-[03:45:52] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[03:45:53] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: UP_TO_DATE Target: null
-[03:45:53] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
-[03:45:53] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Found status: AHEAD Target: null
-[03:45:53] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[03:45:54] [Server thread/INFO] [BuildCraft]: 
-[03:45:54] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.8
-[03:45:54] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
-[03:45:54] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
-[03:45:54] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
-[03:45:54] [Server thread/INFO] [BuildCraft]:   Branch HEAD
-[03:45:54] [Server thread/INFO] [BuildCraft]:   Commit 68370005a10488d02a4bb4b8df86bbc62633d216
-[03:45:54] [Server thread/INFO] [BuildCraft]:     Bump version for release relase, fix a java 13+ compile error, tweak changelog, and fix engines chaining one block more than they should have.
-[03:45:54] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
-[03:45:54] [Server thread/INFO] [BuildCraft]: 
-[03:45:54] [Server thread/INFO] [BuildCraft]: Loaded Modules:
-[03:45:54] [Server thread/INFO] [BuildCraft]:   - lib
-[03:45:54] [Server thread/INFO] [BuildCraft]:   - core
-[03:45:54] [Server thread/INFO] [BuildCraft]:   - builders
-[03:45:54] [Server thread/INFO] [BuildCraft]:   - energy
-[03:45:54] [Server thread/INFO] [BuildCraft]:   - factory
-[03:45:54] [Server thread/INFO] [BuildCraft]:   - robotics
-[03:45:54] [Server thread/INFO] [BuildCraft]:   - silicon
-[03:45:54] [Server thread/INFO] [BuildCraft]:   - transport
-[03:45:54] [Server thread/INFO] [BuildCraft]:   - compat
-[03:45:54] [Server thread/INFO] [BuildCraft]: Missing Modules:
-[03:45:54] [Server thread/INFO] [BuildCraft]: 
-[03:45:54] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
-[03:45:54] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[03:45:55] [Server thread/INFO] [BuildCraft]: 
-[03:45:55] [Server thread/INFO] [BuildCraft]: Starting BuildCraftCompat 7.99.24.8
-[03:45:55] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2017
-[03:45:55] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
-[03:45:55] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
-[03:45:55] [Server thread/INFO] [BuildCraft]:   Branch 8.0.x-1.12.2
-[03:45:55] [Server thread/INFO] [BuildCraft]:   Commit 16adfdb3d6a3362ba3659be7d5e9b7d12af7eee5
-[03:45:55] [Server thread/INFO] [BuildCraft]:     Bump for release.
-[03:45:55] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
-[03:45:55] [Server thread/INFO] [BuildCraft]: 
-[03:45:55] [Server thread/INFO] [BuildCraft]: [compat] Module list:
-[03:45:55] [Server thread/INFO] [BuildCraft]: [compat]   x forestry (It cannot load)
-[03:45:55] [Server thread/INFO] [BuildCraft]: [compat]   x theoneprobe (It cannot load)
-[03:45:55] [Server thread/INFO] [BuildCraft]: [compat]   x crafttweaker (It cannot load)
-[03:45:55] [Server thread/INFO] [BuildCraft]: [compat]   x ic2 (It cannot load)
-[03:45:55] [Server thread/INFO] [Pixelmon]: Loading Pixelmon version 8.2.0
-[03:45:55] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
-[03:45:56] [Server thread/INFO] [Pixelmon]: Checking for migrations..
-[03:45:56] [Server thread/INFO] [Pixelmon]: Loading Advancements
-[03:45:58] [Server thread/INFO] [Gameshark]: Successfully read config.
-[03:45:58] [Server thread/INFO] [Gameshark]: Successfully saved config.
-[03:45:58] [Server thread/INFO] [FML]: Applying holder lookups
-[03:45:58] [Server thread/INFO] [FML]: Holder lookups applied
-[03:45:58] [Server thread/INFO] [Backpack]: Loading items...
-[03:45:58] [Server thread/INFO] [Backpack]: 15 item features loaded.
-[03:45:59] [Server thread/INFO] [FML]: Applying holder lookups
-[03:45:59] [Server thread/INFO] [FML]: Holder lookups applied
-[03:45:59] [Server thread/INFO] [FML]: Applying holder lookups
-[03:45:59] [Server thread/INFO] [FML]: Holder lookups applied
-[03:45:59] [Server thread/INFO] [FML]: Applying holder lookups
-[03:45:59] [Server thread/INFO] [FML]: Holder lookups applied
-[03:45:59] [Server thread/INFO] [FML]: Injecting itemstacks
-[03:45:59] [Server thread/INFO] [FML]: Itemstack injection complete
-[03:45:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[03:45:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[03:45:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[03:45:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 25.82.143.111:25565
-[03:45:59] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
-[03:46:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:46:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[03:46:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:46:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:46:02] [Server thread/INFO] [Backpack]: Loading recipes...
-[03:46:02] [Server thread/INFO] [Backpack]: 15 recipe features loaded.
-[03:46:02] [Server thread/INFO] [FML]: Applying holder lookups
-[03:46:02] [Server thread/INFO] [FML]: Holder lookups applied
-[03:46:02] [Server thread/INFO] [bspkrscore]: Initializing ModVersionChecker for mod bspkrscore
-[03:46:03] [Server thread/WARN] [bspkrscore]: Error retrieving remote string value at URL http://bspk.rs/Minecraft/1.12/bspkrsCore.version! Defaulting to check_error
-[03:46:03] [Server thread/INFO] [bspkrscore]: Initializing ModVersionChecker for mod TreeCapitator
-[03:46:04] [Server thread/WARN] [bspkrscore]: Error retrieving remote string value at URL http://bspk.rs/Minecraft/1.12/TreeCapitator.version! Defaulting to check_error
-[03:46:04] [Server thread/WARN] [bop_patch]: Could not find LeavesModelEventHandler, is biomesoplenty really installed?
-[03:46:04] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the ocean oil biome.
-[03:46:04] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the desert oil biome.
-[03:46:04] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the oil spout generator
-[03:46:04] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the oil biome initiializer
-[03:46:04] [Server thread/INFO] [Pixelmon]: Registering shop items.
-[03:46:04] [Server thread/INFO] [Pixelmon]: Registering NPCs.
-[03:46:04] [Server thread/INFO] [Pixelmon]: Registering structures.
-[03:46:04] [Server thread/INFO] [Pixelmon]: Registering all drops.
-[03:46:05] [Server thread/INFO] [Pixelmon]: Registering battle rules.
-[03:46:05] [Server thread/INFO] [Pixelmon]: Registering Pokémon stats.
-[03:46:06] [Server thread/INFO] [Pixelmon]: Registering quests.
-[03:46:06] [Server thread/INFO] [Pixelmon]: Loaded 39 Quests.
-[03:46:06] [Server thread/INFO] [Gameshark]: initializing Gameshark v6.0.4
-[03:46:06] [Server thread/INFO] [FML]: Injecting itemstacks
-[03:46:06] [Server thread/INFO] [FML]: Itemstack injection complete
-[03:46:06] [Server thread/INFO] [treecapitator]: Prioritizing User and IMC mod configs...
-[03:46:06] [Server thread/INFO] [treecapitator]: Registering items and trees...
-[03:46:06] [Server thread/INFO] [treecapitator]: Skipping Ore Dictionary processing.
-[03:46:06] [Server thread/INFO] [Pixelmon]: Registering spawn sets.
-[03:46:07] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 25 mods
-[03:46:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[03:46:07] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[03:46:08] [Server thread/INFO] [FML]: Applying holder lookups
-[03:46:08] [Server thread/INFO] [FML]: Holder lookups applied
-[03:46:08] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
-[03:46:08] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
-[03:46:08] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:89]: ChunkGeneratorOverworldBOP json: 
-[03:46:08] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:96]: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
-[03:46:08] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@16ddbd3)
-[03:46:08] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 995 advancements
-[03:46:08] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@16ddbd3)
-[03:46:08] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[03:46:08] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@16ddbd3)
-[03:46:08] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
-[03:46:08] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
-[03:46:08] [Server thread/INFO] [FML]: Loading dimension 72 (world) (net.minecraft.server.dedicated.DedicatedServer@16ddbd3)
-[03:46:08] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
-[03:46:08] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
-[03:46:08] [Server thread/INFO] [FML]: Loading dimension 73 (world) (net.minecraft.server.dedicated.DedicatedServer@16ddbd3)
-[03:46:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[03:46:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 23%
-[03:46:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 78%
-[03:46:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3,561s)! For help, type "help" or "?"
-[03:46:11] [Server thread/INFO] [FML]: Unloading dimension 1
-[03:46:11] [Server thread/INFO] [FML]: Unloading dimension -1
-[03:46:11] [Server thread/INFO] [FML]: Unloading dimension 72
-[03:46:11] [Server thread/INFO] [FML]: Unloading dimension 73
-[03:46:31] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
-[03:46:31] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 25 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,biomesoplenty@7.0.1.2444,bspkrscore@7.6.0.1,buildcraftsilicon@7.99.24.8,buildcraftenergy@7.99.24.8,pixelextras@2.5.12,bop_patch@1.0,jei@4.16.1.301,buildcrafttransport@7.99.24.8,buildcraftbuilders@7.99.24.8,mcp@9.42,treecapitator@1.43.0,buildcraftfactory@7.99.24.8,journeymap@1.12.2-5.7.1,naturescompass@1.8.5,elevatorid@1.3.14,FML@8.0.99.99,buildcraftcompat@7.99.24.8,gameshark@6.0.4,forge@14.23.5.2854,backpack@3.0.2,buildcraftcore@7.99.24.8,buildcraftrobotics@7.99.24.8,pixelmon@8.2.0
-[03:46:31] [Netty Server IO #1/INFO] [journeymap]: CLIENT
-[03:46:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:46:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: meckitue[/25.82.143.111:64478] logged in with entity id 28 at (-1920.370854546632, 87.0, -2291.699999988079)
-[03:46:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: meckitue joined the game
-[03:47:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID acc56ea8-2986-46d1-8e98-2672ca5f8028
-[03:49:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID acc56ea8-2986-46d1-8e98-2672ca5f8028
-[03:50:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2450ms behind, skipping 49 tick(s)
-[03:51:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2290ms behind, skipping 45 tick(s)
-[03:51:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of meckitue) moved too quickly! -10.388377070426941,0.11865536123514175,3.393856257200241
-[03:51:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of meckitue) moved too quickly! 2.059115990996361,0.3303087167441845,9.895659923553467
-[03:51:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of meckitue) moved too quickly! 2.604886755347252,0.38476574048399925,11.613850593566895
-[03:51:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of meckitue) moved too quickly! 3.1552679389715195,0.439222764223814,13.330570101737976
-[03:51:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of meckitue) moved too quickly! 3.705649122595787,0.49367978796362877,15.047289609909058
-[03:51:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of meckitue) moved too quickly! 4.256030306220055,0.5481368117034435,16.76400911808014
-[03:51:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of meckitue) moved too quickly! 4.806411489844322,0.6025938354432583,18.48072862625122
-[03:53:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [meckitue: Given [Glass] * 64 to meckitue]
-[03:53:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [meckitue: Given [Glass] * 64 to meckitue]
-[03:53:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [meckitue: Given [Glass] * 64 to meckitue]
-[03:53:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [meckitue: Given [Glass] * 64 to meckitue]
-[03:53:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [meckitue: Given [Glass] * 64 to meckitue]
-[03:56:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID acc56ea8-2986-46d1-8e98-2672ca5f8028
-[03:58:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: meckitue has made the advancement [advancements.buildcraftcore.freePowar.title]
-[03:59:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: meckitue has made the advancement [advancements.buildcraftfactory.lazy_crafting.title]
-[04:00:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard moved wrongly!
-[04:00:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard moved wrongly!
-[04:02:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: meckitue lost connection: Disconnected
-[04:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: meckitue left the game
-[04:03:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[04:03:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[04:03:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[04:03:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[04:03:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[04:03:06] [Server thread/INFO] [FML]: Unloading dimension 0
-[04:03:06] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[04:03:06] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[04:03:06] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:00:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:00:25] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:00:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:00:25] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2855 for Minecraft 1.12.2 loading
+[18:00:25] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_291, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_291
+[18:00:25] [main/INFO] [FML]: Searching C:\Users\Schobert\Desktop\Pixelmon\PIXELMON\.\mods for mods
+[18:00:25] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-OptiFine-1.12.2_HD_U_G5.jar
+[18:00:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:00:25] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[18:00:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:00:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:00:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:00:25] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[18:00:25] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[18:00:25] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[18:00:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$2, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$Options, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.LoadingScreenRenderer, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.util.ScreenShotHelper, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.FontRenderer, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiSlot, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiMainMenu, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiVideoSettings, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.TexturedQuad, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelBox, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelRenderer, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$2, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$3, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$4, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$2, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$3, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$4, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.entity.AbstractClientPlayer, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$2, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$State, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$2, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$3, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$4, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$2, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$ContainerLocalRenderInformation, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockFluidRenderer, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$EnumNeighborInfo, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$AmbientOcclusionFace, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$VertexTranslations, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$Orientation, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuad, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuadRetextured, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery$5, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ItemOverrideList, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$2, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$3, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$PendingUpload, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.RenderChunk, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderManager, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderItemFrame, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$9, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$10, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$2, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$3, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$4, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$5, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$6, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$7, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$8, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.layers.LayerArmorBase, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.LayeredColorMaskTexture, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Holder, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Slot, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$2, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$3, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureUtil, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$2, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$3, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$Entry, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelRotation, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$2, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$3, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$2, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$3, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$1, but received non-empty
+[18:00:27] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$FboMode, but received non-empty
+[18:00:27] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:00:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:00:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:00:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:00:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:00:28] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[18:00:28] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[18:00:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[18:00:33] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2855 Initialized
+[18:00:33] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:00:33] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[18:00:33] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[18:00:33] [Server thread/INFO] [FML]: Searching C:\Users\Schobert\Desktop\Pixelmon\PIXELMON\.\mods for mods
+[18:00:35] [Server thread/INFO] [FML]: Forge Mod Loader has identified 25 mods to load
+[18:00:35] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[18:00:35] [Server thread/WARN] [FML]: Missing English translation for bop_patch: assets/bop_patch/lang/en_us.lang
+[18:00:35] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
+[18:00:35] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
+[18:00:35] [Server thread/WARN] [FML]: Missing English translation for buildcraftenergy: assets/buildcraftenergy/lang/en_us.lang
+[18:00:35] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
+[18:00:35] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
+[18:00:35] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
+[18:00:35] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
+[18:00:35] [Server thread/WARN] [FML]: Missing English translation for pixelextras: assets/pixelextras/lang/en_us.lang
+[18:00:36] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, bspkrscore, treecapitator, backpack, biomesoplenty, bop_patch, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, elevatorid, gameshark, jei, journeymap, naturescompass, pixelextras, pixelmon] at CLIENT
+[18:00:36] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, bspkrscore, treecapitator, backpack, biomesoplenty, bop_patch, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, elevatorid, gameshark, jei, journeymap, naturescompass, pixelextras, pixelmon] at SERVER
+[18:00:36] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack-3.0.2-1.12.2.jar, however there is no signature matching that description
+[18:00:37] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[18:00:37] [Server thread/INFO] [FML]: Found 1237 ObjectHolder annotations
+[18:00:37] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:00:37] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[18:00:37] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:00:37] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
+[18:00:37] [Server thread/INFO] [treecapitator]: Proceeding to load tree/mod configs from file.
+[18:00:38] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Found status: AHEAD Target: null
+[18:00:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:00:39] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[18:00:40] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[18:00:40] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
+[18:00:41] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Found status: AHEAD Target: null
+[18:00:41] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Starting version check at https://mod-buildcraft.com/version/versions-compat.json
+[18:00:41] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Found status: AHEAD Target: null
+[18:00:41] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+[18:00:41] [Server thread/INFO] [BuildCraft]: 
+[18:00:41] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.8
+[18:00:41] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
+[18:00:41] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[18:00:41] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[18:00:41] [Server thread/INFO] [BuildCraft]:   Branch HEAD
+[18:00:41] [Server thread/INFO] [BuildCraft]:   Commit 68370005a10488d02a4bb4b8df86bbc62633d216
+[18:00:41] [Server thread/INFO] [BuildCraft]:     Bump version for release relase, fix a java 13+ compile error, tweak changelog, and fix engines chaining one block more than they should have.
+[18:00:41] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[18:00:41] [Server thread/INFO] [BuildCraft]: 
+[18:00:41] [Server thread/INFO] [BuildCraft]: Loaded Modules:
+[18:00:41] [Server thread/INFO] [BuildCraft]:   - lib
+[18:00:41] [Server thread/INFO] [BuildCraft]:   - core
+[18:00:41] [Server thread/INFO] [BuildCraft]:   - builders
+[18:00:41] [Server thread/INFO] [BuildCraft]:   - energy
+[18:00:41] [Server thread/INFO] [BuildCraft]:   - factory
+[18:00:41] [Server thread/INFO] [BuildCraft]:   - robotics
+[18:00:41] [Server thread/INFO] [BuildCraft]:   - silicon
+[18:00:41] [Server thread/INFO] [BuildCraft]:   - transport
+[18:00:41] [Server thread/INFO] [BuildCraft]:   - compat
+[18:00:41] [Server thread/INFO] [BuildCraft]: Missing Modules:
+[18:00:41] [Server thread/INFO] [BuildCraft]: 
+[18:00:41] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: UP_TO_DATE Target: null
+[18:00:41] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
+[18:00:42] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:00:42] [Server thread/INFO] [BuildCraft]: 
+[18:00:42] [Server thread/INFO] [BuildCraft]: Starting BuildCraftCompat 7.99.24.8
+[18:00:42] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2017
+[18:00:42] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[18:00:42] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[18:00:42] [Server thread/INFO] [BuildCraft]:   Branch 8.0.x-1.12.2
+[18:00:42] [Server thread/INFO] [BuildCraft]:   Commit 16adfdb3d6a3362ba3659be7d5e9b7d12af7eee5
+[18:00:42] [Server thread/INFO] [BuildCraft]:     Bump for release.
+[18:00:42] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[18:00:42] [Server thread/INFO] [BuildCraft]: 
+[18:00:42] [Server thread/INFO] [BuildCraft]: [compat] Module list:
+[18:00:42] [Server thread/INFO] [BuildCraft]: [compat]   x forestry (It cannot load)
+[18:00:42] [Server thread/INFO] [BuildCraft]: [compat]   x theoneprobe (It cannot load)
+[18:00:42] [Server thread/INFO] [BuildCraft]: [compat]   x crafttweaker (It cannot load)
+[18:00:42] [Server thread/INFO] [BuildCraft]: [compat]   x ic2 (It cannot load)
+[18:00:43] [Server thread/INFO] [Pixelmon]: Loading Pixelmon version 8.2.0
+[18:00:44] [Server thread/INFO] [Pixelmon]: Checking for migrations..
+[18:00:44] [Server thread/INFO] [Pixelmon]: Loading Advancements
+[18:00:46] [Server thread/INFO] [Gameshark]: Successfully read config.
+[18:00:46] [Server thread/INFO] [Gameshark]: Successfully saved config.
+[18:00:48] [Server thread/INFO] [FML]: Applying holder lookups
+[18:00:48] [Server thread/INFO] [FML]: Holder lookups applied
+[18:00:48] [Server thread/INFO] [Backpack]: Loading items...
+[18:00:48] [Server thread/INFO] [Backpack]: 15 item features loaded.
+[18:00:48] [Server thread/INFO] [FML]: Applying holder lookups
+[18:00:48] [Server thread/INFO] [FML]: Holder lookups applied
+[18:00:48] [Server thread/INFO] [FML]: Applying holder lookups
+[18:00:48] [Server thread/INFO] [FML]: Holder lookups applied
+[18:00:48] [Server thread/INFO] [FML]: Applying holder lookups
+[18:00:48] [Server thread/INFO] [FML]: Holder lookups applied
+[18:00:48] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:00:48] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:00:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[18:00:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[18:00:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[18:00:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 25.84.69.211:25565
+[18:00:48] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[18:00:49] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** FAILED TO BIND TO PORT!
+[18:00:49] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The exception was: java.net.BindException: Cannot assign requested address: bind
+[18:00:49] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: Perhaps a server is already running on that port?
+[18:00:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:00:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:00:49] [Server thread/INFO] [FML]: The state engine was in incorrect state POSTINITIALIZATION and forced into state SERVER_STOPPED. Errors may have been discarded.
+[18:00:49] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:00:49] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
